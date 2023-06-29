@@ -21,9 +21,10 @@
   },
   "homepage": "https://github.com/BrayMurph/SVG-Logo-Maker#readme",
   "devDependencies": {
-    "jest": "^29.5.0"
+    "jest": "^24.9.0"
   },
   "dependencies": {
-    "inquirer": "^9.2.7"
+    "inquirer": "8.2.4",
+    "node-fetch": "^3.3.1"
   }
 }
