@@ -33,3 +33,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Video Demonstration
 
+https://github.com/BrayMurph/SVG-Logo-Maker/assets/130401538/fe157634-655c-4cd8-8c0e-6056b114e17b
